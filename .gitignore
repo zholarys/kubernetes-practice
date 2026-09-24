@@ -1,1 +1,2 @@
 *.secret
+app-secret.yaml
